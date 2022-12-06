@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Reshma-Mohanan.. 
+- 👋 Hi, I’m @Reshma-Mohanan
 - 👀 I’m interested in programming languages.. 
-- 🌱 I’m currently pursuing MCA.. 
+- 🌱 I’m currently pursuing MCA
 
 
 <!---
