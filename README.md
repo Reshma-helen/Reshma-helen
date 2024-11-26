@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reshma-Mohanan
--  I’m currently pursuing MCA
+
 
 
 <!---
